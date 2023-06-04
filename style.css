@@ -1,0 +1,9 @@
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+
+label{
+    font-size: 20px;
+    color: aliceblue;
+}
